@@ -6,6 +6,7 @@
 [![Docker Build](https://img.shields.io/docker/build/gableroux/debian-samba-common-bin.svg)](https://hub.docker.com/r/gableroux/debian-samba-common-bin)
 [![image](https://images.microbadger.com/badges/image/gableroux/debian-samba-common-bin.svg)](https://microbadger.com/images/gableroux/debian-samba-common-bin)
 [![version](https://images.microbadger.com/badges/version/gableroux/debian-samba-common-bin.svg)](https://microbadger.com/images/gableroux/debian-samba-common-bin)
+[![Build Status](https://travis-ci.com/GabLeRoux/docker-debian-samba-common-bin.svg?branch=master)](https://travis-ci.com/GabLeRoux/docker-debian-samba-common-bin)
 
 A debian docker image that contains the [`samba-common-bin` package](https://packages.debian.org/sid/samba-common-bin) to get hands on `smbpasswd` command.
 

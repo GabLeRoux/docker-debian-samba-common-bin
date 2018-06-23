@@ -1,0 +1,8 @@
+sudo: required
+language: ruby
+services:
+  - docker
+before_install:
+  - docker build . -t gableroux/debian-samba-common-bin
+script:
+  - docker run --rm -it gableroux/debian-samba-common-bin bash -c "which smbpasswd"
