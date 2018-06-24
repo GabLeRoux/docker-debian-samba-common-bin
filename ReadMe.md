@@ -10,7 +10,7 @@
 
 A debian docker image that contains the [`samba-common-bin` package](https://packages.debian.org/sid/samba-common-bin) to get hands on `smbpasswd` command.
 
-This was created to solve [smbpasswd command not found on MacOS High Sierra](https://superuser.com/posts/1333537/).
+This was created to solve [smbpasswd command not found on MacOS High Sierra](https://superuser.com/questions/1333536/smbpasswd-command-not-found-on-macos-high-sierra/1333537).
 
 ## Usage
 
